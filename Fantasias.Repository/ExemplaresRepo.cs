@@ -16,7 +16,7 @@ using System.Threading.Tasks;
         #endregion
 
         #region Metodos Statics
-
+//jhgjhghjgjhg
         public static List<Exemplares> Get()
         {
             sql = new StringBuilder();
