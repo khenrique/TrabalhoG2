@@ -9,7 +9,9 @@ using System.Threading.Tasks;
 
     class ExemplaresRepo
     {
+
         #region Atributos
+        public int teste { get; set; }
         private static StringBuilder sql;
         #endregion
 
