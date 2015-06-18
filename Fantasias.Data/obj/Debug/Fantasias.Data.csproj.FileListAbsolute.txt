@@ -1,0 +1,16 @@
+C:\Users\Marielle\Desktop\TrabalhoG2\Fantasias.Data\bin\Debug\Fantasias.Data.dll
+C:\Users\Marielle\Desktop\TrabalhoG2\Fantasias.Data\bin\Debug\Fantasias.Data.pdb
+C:\Users\Marielle\Desktop\TrabalhoG2\Fantasias.Data\bin\Debug\Conexao.dll
+C:\Users\Marielle\Desktop\TrabalhoG2\Fantasias.Data\bin\Debug\MySql.Data.dll
+C:\Users\Marielle\Desktop\TrabalhoG2\Fantasias.Data\bin\Debug\Conexao.pdb
+C:\Users\Marielle\Desktop\TrabalhoG2\Fantasias.Data\obj\Debug\Fantasias.Data.csprojResolveAssemblyReference.cache
+C:\Users\Marielle\Desktop\TrabalhoG2\Fantasias.Data\obj\Debug\Fantasias.Data.dll
+C:\Users\Marielle\Desktop\TrabalhoG2\Fantasias.Data\obj\Debug\Fantasias.Data.pdb
+C:\Users\Kayo\Documents\Ulbra\2015-1\LPOII\TrabalhoG2\Fantasias.Data\bin\Debug\Fantasias.Data.dll
+C:\Users\Kayo\Documents\Ulbra\2015-1\LPOII\TrabalhoG2\Fantasias.Data\bin\Debug\Fantasias.Data.pdb
+C:\Users\Kayo\Documents\Ulbra\2015-1\LPOII\TrabalhoG2\Fantasias.Data\bin\Debug\Conexao.dll
+C:\Users\Kayo\Documents\Ulbra\2015-1\LPOII\TrabalhoG2\Fantasias.Data\bin\Debug\MySql.Data.dll
+C:\Users\Kayo\Documents\Ulbra\2015-1\LPOII\TrabalhoG2\Fantasias.Data\bin\Debug\Conexao.pdb
+C:\Users\Kayo\Documents\Ulbra\2015-1\LPOII\TrabalhoG2\Fantasias.Data\obj\Debug\Fantasias.Data.csprojResolveAssemblyReference.cache
+C:\Users\Kayo\Documents\Ulbra\2015-1\LPOII\TrabalhoG2\Fantasias.Data\obj\Debug\Fantasias.Data.dll
+C:\Users\Kayo\Documents\Ulbra\2015-1\LPOII\TrabalhoG2\Fantasias.Data\obj\Debug\Fantasias.Data.pdb

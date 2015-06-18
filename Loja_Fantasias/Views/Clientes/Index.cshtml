@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Fantasias.Data.Clientes>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de Clientes</h2>
+
+<p>
+    @Html.ActionLink("Inserir Novo Cliente", "Create")
+</p>
+<br />
+<table>
+    <tr>
+        <td><input type="text" class="form-control" size="100" /></td>
+        <td><input type="submit" value="Buscar por Nome" align=rigth class="btn btn-default"></td>
+    </tr>
+</table><br />
+
+<table class="table">
+    <tr>
+        <th><font align=center color=DodgerBlue>
+    @Html.DisplayNameFor(model => model.nome_cli)
+        </font></th>
+         <th><font align=center color=DodgerBlue>
+            @Html.DisplayNameFor(model => model.telefone)
+        </font></th>
+         <th><font align=center color=DodgerBlue>
+            @Html.DisplayNameFor(model => model.endereco)
+        </font></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nome_cli)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.telefone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.endereco)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id_cliente }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id_cliente })
+            </td>
+        </tr>
+    }
+
+</table>
